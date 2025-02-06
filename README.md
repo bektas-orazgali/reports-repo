@@ -5,3 +5,11 @@
 ## Subheader
 
 Watch tutorial on Youtube
+
+### Testing the process of git push
+save the files locally first
+git add .
+git status
+git commit -m "" -m ""
+git status
+git push
