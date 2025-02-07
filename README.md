@@ -12,4 +12,4 @@ git add .
 git status
 git commit -m "" -m ""
 git status
-git push
+git push origin master
